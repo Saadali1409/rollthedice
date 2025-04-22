@@ -83,7 +83,7 @@ body{
         gap: 10%;
         left: 40%;
         opacity: 0%;
-        box-shadow: 0 0 100px brown, 0 0 25px orangered;
+        box-shadow: 0 0 100px brown, 0 0 25px rgb(9, 255, 0);
 
     }
     #box3 div{
